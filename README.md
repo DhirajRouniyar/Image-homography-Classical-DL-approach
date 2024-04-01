@@ -12,12 +12,12 @@ This section focuses on the implementation of the algorithm to generate a panora
 local features. Two image sets need to be captured that have about 30 to 50 percent image overlap between them. This
 approach has the following steps:  
 
-• Corner Detection
-• Adaptive Non-Maximal Suppression (ANMS)
-• Feature Descriptor
-• Feature Matching
-• RANSAC for outlier rejection and to estimate Robust Homography
-• Blending Images
+• Corner Detection  
+• Adaptive Non-Maximal Suppression (ANMS)  
+• Feature Descriptor  
+• Feature Matching  
+• RANSAC for outlier rejection and to estimate Robust Homography  
+• Blending Images  
 
 # Input Images
 ![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Input%20images.png)
