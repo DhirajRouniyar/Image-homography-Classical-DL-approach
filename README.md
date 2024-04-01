@@ -6,7 +6,8 @@ local features which can be used to match features and blend images together. Tw
 i.e. A traditional approach and a Deep Learning approach.
 # PHASE1: Traditional approch 
 # PHASE2: Supervised and Unsupervised approch
-Refer Report for details.
+Refer Report for details.  
+
 This section focuses on the implementation of the algorithm to generate a panorama out of multiple images with repeated
 local features. Two image sets need to be captured that have about 30 to 50 percent image overlap between them. This
 approach has the following steps:  
@@ -19,5 +20,6 @@ approach has the following steps:
 • Blending Images
 
 # Input Images
-
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Input%20images.png)
 # Panaroma Stiching
+![Alt Text](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Panaroma.png)
